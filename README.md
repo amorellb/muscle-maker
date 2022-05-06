@@ -1,5 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f9582bd0-2b4f-4bc5-8bee-ae0c14537f8d/deploy-status)](https://app.netlify.com/sites/unruffled-hodgkin-c0b498/deploys)
-
+[![wakatime](https://wakatime.com/badge/user/0314f862-a840-4097-a5f5-e3b2f2c099f9/project/a65a55ac-aecb-4bcf-9838-39ac473b0ceb.svg)](https://wakatime.com/badge/user/0314f862-a840-4097-a5f5-e3b2f2c099f9/project/a65a55ac-aecb-4bcf-9838-39ac473b0ceb)
 # muscle-maker
 
 ## Project setup
